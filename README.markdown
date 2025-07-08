@@ -82,7 +82,7 @@ Master PL/SQL for efficient database management and automation.
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/software-development-fundamentals.git
+   git clone [https://github.com/saquib5005/Cognizant-Digital-Nature-4.0-Java-FSE.git]
    ```
 2. Explore the directories for each module to find code examples, explanations, and exercises.
 3. Follow the weekly structure to progressively build your skills.
