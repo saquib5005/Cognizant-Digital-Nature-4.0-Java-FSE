@@ -1,4 +1,4 @@
-# Software Development Fundamentals
+# Cognizant DN 4.0 - Software Development Fundamentals
 
 A comprehensive learning repository covering essential concepts in **Design Patterns**, **Data Structures and Algorithms**, and **PL/SQL Programming**. This project is structured as a two-week curriculum to build a strong foundation in software development.
 
@@ -79,10 +79,12 @@ Master PL/SQL for efficient database management and automation.
   - Types: BEFORE, AFTER, INSTEAD OF
   - Creating and Managing Triggers
 
+
+
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/saquib5005/Cognizant-Digital-Nature-4.0-Java-FSE.git]
+   git clone https://github.com/saquib5005/Cognizant-Digital-Nature-4.0-Java-FSE.git
    ```
 2. Explore the directories for each module to find code examples, explanations, and exercises.
 3. Follow the weekly structure to progressively build your skills.
